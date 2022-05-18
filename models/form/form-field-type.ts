@@ -1,0 +1,16 @@
+export enum FormFieldType {
+    Number = 'Number',
+    Date = 'Date',
+    Checkbox = 'Checkbox',
+    Certification = 'Certification',
+    Select = 'Select',
+    SelectTable = 'SelectTable',
+    MultiSelect = 'MultiSelect',
+    Text = 'Text',
+    TextArea = 'TextArea',
+    Html = 'Html',
+    Json = 'Json',
+    TextMasked = 'TextMasked',
+    Radio = 'Radio',
+    Message = 'Message',
+}
